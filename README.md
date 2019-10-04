@@ -49,3 +49,19 @@ part of your solution does not need to actually run)
 **Bonus:**
 * The numbers should be printed in ascending order.
 * Imagine `getRandomWord`'s implementation is slow and takes 500ms to complete (call `getRandomWord({ slow: true })` to emulate this). Can you make your solution run in less than 1000ms with the `slow` option turned on?
+
+
+
+Tasks have been completed in below order;
+
+Task 1: completed
+Task 2: completed  
+Task 3: completed
+Task 4: completed  
+Task 5: Node developer part has been completed.  
+Note: Printed the content as a json file in one call since there is no requirement to print it line by line. Also synchronous and asynchronous console output are written in to two json files.
+Synchronous  output file name: data_sync.json  
+Asynchronous  output file name: data_async.json  
+
+Bonus Task 1: Output is already printing in asc order
+Bonus Task 2: This is little confusing because  getRandomWord  function  takes 50000 ms to complete, but the question says it will be completed in 500 ms. So based on the question, I have done a change in the function to complete the full execution in less than 1000 ms while slow parameter is set as true.
